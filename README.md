@@ -6,5 +6,5 @@ Rommel Cabotaje
 
 3. The snapshot mode is less in depth compared to the navigation mode. Like fore example it gives a 2/4 for performance, while navigation gives it a 99/100.
 
-4. For accessability you can make it to where the <html> tags have a [lang] attribute. For best practices you can change it to where it has a <meta name="viewport"> tag with width or initial-scale. Lastly for SEO make the document have meta descriptions.
+4. For accessability you can make it to where the `<html>` tags have a [lang] attribute. For best practices you can change it to where it has a `<meta name="viewport">` tag with width or initial-scale. Lastly for SEO make the document have meta descriptions.
 
